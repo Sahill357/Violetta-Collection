@@ -23,8 +23,6 @@ import { BsCurrencyDollar } from "react-icons/bs";
 import better from "../assets/better.jpeg";
 import SPFooter from './SPFooter';
 
-
-
 const ForHer = () => {
     const [filter, SetFilter] = useState(false);
 
